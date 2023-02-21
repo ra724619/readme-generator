@@ -34,7 +34,7 @@ Screenshot:
 ![Alt text](assets/demo/demo%20screen%20preview%202.jpeg)
 ![Alt text](assets/demo/demo%20screen%20preview%201.jpeg)
 Video demo:
-[label](assets/demo/video%20demo%20for%20readme%20generator.mp4)
+[label](assets/demo/video%20demo%20for%20readme%20generator%20(1).mp4)
 
 The README GENERATOR application uses the inquirer package to prompt you in the command line with a series of questions regarding your GitHub account and your project.
 
